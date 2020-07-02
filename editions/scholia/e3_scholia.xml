@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Scholia to Escorial Upsilon 1.1</title>
-                <author>YOUR NAME HERE</author>
+                <author>Stephen Pittman</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -18,17 +18,30 @@
       <group n="23">
           <text n="e3">
               <body>
-                  <div n="e3_PAGE_SCHOLNUMBER" type="scholion">
+                  <div n="e3_313v_1" type="scholion">
                       <div n="lemma">
-                          <p><num>GREEK NUMBER</num></p>
+                          <p><num>α</num></p>
                       </div>
                       <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.ILIAD_LINE</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.879</p>
                       </div>
                       <div n="comment">
-                          <p>Scholiion text</p>
+                          <p>ἀπεκλίθησαν τὴν ἰδίαν ἁρμονίαν ἀφέντα⁑</p>
                       </div>
                   </div>
+
+                  <div n="e3_313v_2" type="scholion">
+                      <div n="lemma">
+                          <p><num>β</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.880</p>
+                      </div>
+                      <div n="comment">
+                      <p>ἀντὶ τοῦ ταχέως. ἢ ἐπειδὴ πνεῦμα ἐστίν~ πολλὰ δὲ ἐν τῇ ποιήσει κατορθώματα Τεύκρῳ περιάψας, νῦν τοῦτο Μηριόνῃ διὰ τὸ πιθανὸν πορίζεται⁑</p>
+                      </div>
+                  </div>
+
               </body>
           </text>
       </group>
