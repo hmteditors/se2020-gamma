@@ -1,2 +1,4 @@
 #!ctsdata
-reading#image#scholion#text
+urn#reading#image#scholion#text
+urn:cite2:hmt:e3markers.v1:313v_1#<num>α</num>#urn:cite2:hmt:e3bifolio.v1:E3_313v_314r@0.03609,0.09975,0.01765,0.02758#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_313v_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.879@λίασθεν
+urn:cite2:hmt:e3markers.v1:313v_2#<num>β</num>#urn:cite2:hmt:e3bifolio.v1:E3_313v_314r@0.03336,0.1148,0.01412,0.02095#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_313v_2#urn:cts:greekLit:tlg0012.tlg001.e3:23.880@ὠκὺς
