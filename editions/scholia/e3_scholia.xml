@@ -54,6 +54,42 @@
                       </div>
                   </div>
 
+                  <div n="e3_313v_4" type="scholion">
+                      <div n="lemma">
+                          <p><num value="4">δ</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.886</p>
+                      </div>
+                      <div n="comment">
+                      <p>τινὲς <q>ῥήμονες</q>~ ἀλλὰ εἶπεν <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.891</ref><q>ἥμασιν ἔπλευ ἄριστος</q></cit>~ ἀπὸ τοῦ <q>ἥσω</q> οὖν ἔστι διὸ καὶ δασύνεται~ καλῶς δὲ <persName n="urn:cite2:hmt:pers.v1:pers22">Ἀγαμεμνον</persName> ἀγωνίζεται. ὡς καὶ ἀυτὸς χρεωστῶν τῷ θανόντι~ δι' ἀυτον γὰρ ἀναιρεῖται~ καὶ ἵνα αγνακτήσηται <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλέα</persName>~ πανταχοῦ δὲ εὔστοχος ἐστὶν ἀκοντιστής⁑</p>
+                      </div>
+                  </div>
+
+                  <div n="e3_313v_5" type="scholion">
+                      <div n="lemma">
+                          <p><num value="5">ε</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.892</p>
+                      </div>
+                      <div n="comment">
+                      <p>ὡς βασιλέα ἀκονιτὶ στεφανοῖ~ καὶ οὐ πρότερον. εἰ μὴ αὐτὸς ἐκέλευσεν⁑</p>
+                      </div>
+                  </div>
+
+                  <div n="e3_313v_6" type="scholion">
+                      <div n="lemma">
+                          <p><num value="6">ϛ</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.897</p>
+                      </div>
+                      <div n="comment">
+                      <p>δῆλον ὅτι ἐπὶ τῷ ἀπαγαγεῖν εἰς τὴν βασιλικὴν σκηνήν⁑</p>
+                      </div>
+                  </div>
+
               </body>
           </text>
       </group>
